@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(40, 173, 40);
+}
+.log{
+    text-align: center;
+    background-color: white;
+    width: 369px;
+    height: 367px;
+    margin-left: 567px;
+    margin-top: 140px;
+    box-shadow: 3px 4px 55px rgba(6,0,0,0.6);
+}
+.name input{
+    margin-top: 109px;
+    width: 231px;
+    height: 30px;
+    outline: none;
+    padding-left: 13px;
+}
+.pass input{
+    margin-top: 19px;
+    width: 231px;
+    height: 30px;
+    outline: none;
+    padding-left: 13px;
+}
+.log button{
+    margin-top: 26px;
+    width: 244px;
+    height: 38px;
+    color: white;
+    background-color: rgb(6, 134, 6);
+    border: none;
+}
+.log button:hover{
+    background-color: rgb(8, 101, 8);
+}

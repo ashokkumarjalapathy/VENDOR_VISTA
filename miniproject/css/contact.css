@@ -1,0 +1,151 @@
+.containersection-title{
+    text-align: center;
+}
+.firstone{
+    display: flex;
+    justify-content: space-evenly;
+}
+.second{
+    display: flex;
+    justify-content: space-evenly;
+}
+.address{
+    background-color: #f5f4f4;
+    margin-bottom: 28px;
+    border-radius: 14px;
+}
+.number{
+    background-color: #f5f4f4;
+    margin-bottom: 28px;
+    border-radius: 14px;
+}
+.mail{
+    background-color: #f5f4f4;
+    border-radius: 14px;
+}
+.time{
+    margin-left: 36px;
+    background-color: #f5f4f4;
+    border-radius: 14px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.firstone{
+    display: block;
+}
+.second{
+    display: block;
+
+}
+.commonbox{
+    display: flex;
+    justify-content: space-around;
+}
+.commonbox .second{
+    margin-left: 60px;
+}
+.com{
+    padding:30px;
+    width: 185px;
+    height: 185px;
+}
+.time{
+    margin-top: 25px;
+}
+.same{
+    display: flex;
+    width: 242px;
+    height: 28px;
+}
+.same input{
+    width: 221px;
+    height: 28px;
+ 
+}
+.sub input{
+
+    width: 491px;
+    height: 28px;
+  
+    margin-top: 38px;
+}
+.container{
+    margin-top: 64px;
+}
+.mail {
+    margin-left: 37px;
+}
+.info{
+    margin-top: 29px;
+    padding: 29px;
+    background-color: #f5f4f4;
+    width: 506px;
+    height: 358px;
+    padding-top: 55px;
+    border-radius: 14px;
+}
+.mess{
+    margin-top: 35px ;
+}
+.mess textarea{
+    width: 493px;
+    height: 130px;
+    outline: none;
+}
+.buttons button{
+    margin-top: 32px;
+    height: 38px;
+    width: 117px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    color: white;
+    background-color: #6fcb6f;
+}
+.buttons{
+    margin-left: 216px;
+}
+.buttons button:hover{
+    background-color: #248424;
+}
+.mail input{
+    outline: none;
+}
+.name input{
+    outline: none;
+}
+.sub input{
+    outline: none;
+}
+.address i{
+    font-size: 28px;
+}
+.number i{
+    font-size: 28px;
+}
+.mail i{
+    font-size: 28px;
+}
+.time i{
+    font-size: 28px;
+}
+.address:hover{
+    background-color: beige;
+}
+.number:hover{
+    background-color: beige;
+}
+.mail:hover{
+    background-color: beige;
+}
+.time:hover{
+    background-color: beige;
+}
+.info:hover{
+    background-color: beige;
+}
+.containersection-title{
+    font-family: sans-serif;
+}
